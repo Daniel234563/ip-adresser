@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\IT\crawler\crawler\bin\Debug\net7.0\crawler.exe
+C:\Users\danie\Desktop\IT\crawler\crawler\bin\Debug\net7.0\crawler.deps.json
+C:\Users\danie\Desktop\IT\crawler\crawler\bin\Debug\net7.0\crawler.runtimeconfig.json
+C:\Users\danie\Desktop\IT\crawler\crawler\bin\Debug\net7.0\crawler.dll
+C:\Users\danie\Desktop\IT\crawler\crawler\bin\Debug\net7.0\crawler.pdb
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\crawler.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\crawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\crawler.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\crawler.AssemblyInfo.cs
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\crawler.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\crawler.dll
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\refint\crawler.dll
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\crawler.pdb
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\crawler.genruntimeconfig.cache
+C:\Users\danie\Desktop\IT\crawler\crawler\obj\Debug\net7.0\ref\crawler.dll
